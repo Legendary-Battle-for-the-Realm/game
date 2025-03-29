@@ -1,0 +1,106 @@
+[
+    {
+        "id": 0,
+        "name": "Thiên Tằm Bào",
+        "atk": "5%",
+        "def": "80%",
+        "desc": "Áo choàng dệt từ tơ thiên giới, bảo vệ khỏi sát thương nội công một cách hiệu quả.",
+        "owner_id": 0,
+        "cultivation_required": "Trung cấp",
+        "skill": {
+            "name": "Thiên Giới Hộ Thuẫn",
+            "ref": "heavenly_shield"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Thiết Quyền Giáp",
+        "atk": "70%",
+        "def": "50%",
+        "desc": "Găng tay cường hóa của Thiếu Lâm, tăng cường khả năng phòng thủ và hỗ trợ đòn tấn công quyền pháp.",
+        "owner_id": 2,
+        "cultivation_required": "Trung cấp",
+        "skill": {
+            "name": "La Hán Quyền",
+            "ref": "arhat_fist"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kim Cang Giới",
+        "atk": "60%",
+        "def": "85%",
+        "desc": "Chuỗi hạt của trụ trì Thiếu Lâm, tạo ra lớp bảo vệ mạnh mẽ giúp đâm xuyên phòng thủ đối phương.",
+        "owner_id": 3,
+        "cultivation_required": "Cao cấp",
+        "skill": {
+            "name": "Bất Hoại Kim Cang",
+            "ref": "diamond_body"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Diệt Thế Ma Y",
+        "atk": "-170%",
+        "def": "280%",
+        "desc": "Áo choàng của Ma Vương, tập trung vào khả năng phòng thủ siêu việt mặc dù làm giảm đi sức mạnh tấn công.",
+        "owner_id": null,
+        "cultivation_required": "Thần cảnh",
+        "skill": {
+            "name": "Diệt Thế Ma Lực",
+            "ref": "world_destruction"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Hắc Ám Thánh Giáp",
+        "atk": "-160%",
+        "def": "220%",
+        "desc": "Giáp của chúa tể bóng tối, gia tăng khả năng phòng thủ bằng tà khí nhưng làm giảm sức mạnh tấn công.",
+        "owner_id": null,
+        "cultivation_required": "Thần cảnh",
+        "skill": {
+            "name": "Bóng Tối Vĩnh Hằng",
+            "ref": "eternal_darkness"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Thiên Địa Thánh Y",
+        "atk": "180%",
+        "def": "-130%",
+        "desc": "Áo choàng thiên địa, khuếch đại công lực tấn công nhưng làm giảm đáng kể khả năng phòng thủ.",
+        "owner_id": null,
+        "cultivation_required": "Thần cảnh",
+        "skill": {
+            "name": "Thiên Địa Uy Năng",
+            "ref": "cosmic_force"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Vực Sâu Hộ Giáp",
+        "atk": "-160%",
+        "def": "170%",
+        "desc": "Giáp được tạo ra từ năng lượng vực sâu, tăng khả năng chịu đựng đòn đánh nhưng làm giảm hiệu quả tấn công.",
+        "owner_id": null,
+        "cultivation_required": "Thần cảnh",
+        "skill": {
+            "name": "Sâu Thẳm Vô Hạn",
+            "ref": "abyssal_power"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Hỗn Mang Thần Bào",
+        "atk": "260%",
+        "def": "-190%",
+        "desc": "Áo choàng hỗn mang, tăng sát thương lên mức tối đa nhưng hầu như không còn khả năng phòng thủ.",
+        "owner_id": null,
+        "cultivation_required": "Thần cảnh",
+        "skill": {
+            "name": "Hỗn Mang Thống Trị",
+            "ref": "chaos_dominance"
+        }
+    }
+]

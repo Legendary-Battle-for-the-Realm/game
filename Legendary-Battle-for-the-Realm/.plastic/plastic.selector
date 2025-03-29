@@ -1,0 +1,4 @@
+repository "Legendary-Battle-for-the-Realm@toan01224551919@cloud"
+  path "/"
+    br "/main"
+    co "/main"
