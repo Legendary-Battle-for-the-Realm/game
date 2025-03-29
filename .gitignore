@@ -1,0 +1,17 @@
+﻿# Bỏ qua thư mục Library, Temp, Logs, UserSettings
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Bỏ qua Lightmap và cache
+[Ll]ightmapSnapshot
+[Gg]iCache/
+
+# Bỏ qua file build
+*.exe
+*.apk
+*.aab
